@@ -1,6 +1,6 @@
 ## Olá! Eu sou Sthefani Ganzarolli
 
-- 💼  Procuro Estágio Desenvolvimento Web
+- 💼  Procuro uma oprotunidade de emprego em Desenvolvimento Web
 - 📚 Estudando HTML, CSS, JavaScript, wordpress
 - 📫 Contate-me no email: sthefaniganzarolli@gmail.com
 - 💎 Linkedin https://www.linkedin.com/in/sthefani-ganzarolli-34108b328/
