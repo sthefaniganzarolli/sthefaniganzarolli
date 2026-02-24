@@ -2,6 +2,7 @@
 
 - 💼 Procuro uma oportunidade de emprego em Desenvolvimento Web
 - 📚 Estudando HTML, CSS, JavaScript, Wordpress, Python
+- 📚 Estudando Mídia Performance e Tráfego Pago
 - 📫 Contate-me no email: sthefaniganzarolli@gmail.com
 - 💎 Linkedin https://www.linkedin.com/in/sthefani-ganzarolli-34108b328/
 
